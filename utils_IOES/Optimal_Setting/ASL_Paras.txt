@@ -1,0 +1,5 @@
+meanGz = 0.45; % mT/m
+G_amp = 9; % mT/m
+FA = 30; % degrees
+RF_dur = 870e-6;  % RF duration
+RF_sep = 1560e-6;  % RF separation
